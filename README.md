@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="figures/HeaDS_logo_large_withTitle.png" width="300">
+  <img src="teachers/figures/HeaDS_logo_large_withTitle.png" width="300">
 </p>
 <p align="center">
-  <img src="figures/tsunami_logo.PNG" width="600">
+  <img src="teachers/figures/tsunami_logo.PNG" width="600">
 
 # Python part 2
 
