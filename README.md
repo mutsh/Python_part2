@@ -6,14 +6,16 @@
 
 # Python part 2
 
+The links in the schedule will bring you directly to colab. Use Ctrl+click/Cmd+click to open in a new tab. 
+
 | DAY 1                                                | DAY 2                                                | DAY 3                                 |
 |------------------------------------------------------|------------------------------------------------------|---------------------------------------|
-| Morning coffee (optional)                             | Morning coffee (optional)                           | Morning coffee (optional)             |
-| Intro | [Pandas](Pandas)                                    | [Recap Quiz](Recap)                   |
-| [Numpy and Pandas](https://colab.research.google.com/github/Center-for-Health-Data-Science/Python_part2/blob/main/notebooks/Numpy_and_pandas.ipynb)     |                                                      |                                       |
-| Coffee break                                         | Coffee break                                         | Coffee break                          |
-| [Iterables I](Iterables)                             | [Pandas](Pandas)                                     | [Visualization](Visualizations)       |
-| Coffee break                                         |                                                      |                                       |
+| Morning coffee (optional)                            | Morning coffee (optional)                           | Morning coffee (optional)             |
+| Intro                                                | [Functions](https://colab.research.google.com/github/Center-for-Health-Data-Science/Python_part2/blob/main/notebooks/Functions.ipynb)| [Documentation](https://colab.research.google.com/github/Center-for-Health-Data-Science/Python_part2/blob/main/notebooks/Documentation.ipynb)|
+| [Numpy and Pandas](https://colab.research.google.com/github/Center-for-Health-Data-Science/Python_part2/blob/main/notebooks/Numpy_and_pandas.ipynb)| [Linear Regression](https://colab.research.google.com/github/Center-for-Health-Data-Science/Python_part2/blob/main/notebooks/Model_fitting.ipynb)|[Testing](https://colab.research.google.com/github/Center-for-Health-Data-Science/Python_part2/blob/main/notebooks/Testing_and_errors.ipynb)|
+| [Exploratory Data Analysis](https://colab.research.google.com/github/Center-for-Health-Data-Science/Python_part2/blob/main/notebooks/EDA.ipynb)| | [Clustering](https://colab.research.google.com/github/Center-for-Health-Data-Science/Python_part2/blob/main/notebooks/Clustering.ipynb) |
+|                                                      |                                                      |[Classes 1](https://colab.research.google.com/github/Center-for-Health-Data-Science/Python_part2/blob/main/notebooks/Classes.ipynb)|
+| Lunch                                                |Lunch                                                 |Lunch                                  |
 | [Iterables II](Iterables)                            |                                                      |                                       |
 | Lunch                                                | Lunch                                                | Lunch                                 |
 | [Booleans, operators and conditions](Conditionals)   | [Pandas](Pandas)                                     | [Virtual envs and installations](slides)        |
